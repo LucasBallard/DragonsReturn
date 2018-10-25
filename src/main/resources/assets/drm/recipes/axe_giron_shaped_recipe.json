@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " GG",
+        " SG",
+        " S "
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "drm:ingot_giron"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:axe_giron",
+        "count": 1
+    }
+}

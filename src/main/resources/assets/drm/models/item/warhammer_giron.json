@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "drm:items/weapons/giron/warhammer_giron"
+   }
+}

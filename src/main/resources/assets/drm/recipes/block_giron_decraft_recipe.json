@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "drm:block_giron"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "drm:ingot_giron",
+        "count": 9
+    }
+}

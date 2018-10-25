@@ -1,0 +1,97 @@
+Alpha 1.0.1[WIP]
+
+>>Items:
++ Added Fur [only obtained creative]
++ Added Nadder Spine [only obtained creative]
++ Added Loki Stick [not craftable]
++ Added Terrible Terror Egg [not yet usable or placeable]
++ Added Zippleback Egg [not yet usable or placeable]
+
+>>Food:
++ Added Drumstick [only obtained creative]
++ Added Raw Mutton [only obtained creative]
++ Added Cooked Mutton [only obtained creative]
++ Added Dragon Nip [crop block no texture and no return on break]
++ Added Dragon Nip Seed [only obtained creative]
+
+>>Blocks:
++ Added Copper Ore
++ Added Tin Ore
+
+>>Weapons:
++ Added Bronze Sword
++ Added Bronze Battleaxe [acts as sword]
++ Added Bronze Dagger [acts as sword]
++ Added Bronze Mace [acts as sword]
++ Added Bronze Spear [acts as sword]
++ Added Bronze WarHammer [acts as sword]
++ Added Bronze Shield [acts as sword, not shield yet]
++ Added Giron Sword
++ Added Giron Battleaxe [acts as sword]
++ Added Giron Dagger [acts as sword]
++ Added Giron Mace [acts as sword]
++ Added Giron Spear [acts as sword]
++ Added Giron WarHammer [acts as sword]
++ Added Nadder Spear [acts as sword, same stat as giron]
++ Added Nadder Dagger [acts as sword, same stat as giron]
+
+>>Armor:
++ Added Bronze Helmet [temp set used as template]
++ Added Bronze Chestplate [temp set used as template]
++ Added Bronze Leggings [temp set used as template]
++ Added Bronze Boots [temp set used as template]
+
+>>Tools:
++ Added Bronze Pickaxe
++ Added Bronze Shovel
++ Added Bronze Axe
++ Added Bronze Hoe
++ Added Giron Pickaxe
++ Added Giron Shovel
++ Added Giron Axe
++ Added Giron Hoe
+
+>>Recipes:
++ Added Smelting Recipe for copper and tin ores
++ Added Smelting Recipe for Block of Giron
++ Added Crafting Recipe for all Large Plank Blocks
++ Added Crafting Recipe for all Tools
++ Added Crafting Recipe for all Weapons
++ Added Crafting Recipe for all Armor
+
+>>World:
++ Added Ore generation for copper and tin ores
+
+>>GUI:
++ Added "Dragons Return Combat" creative tab
++ Added "Dragons Return Tools" creative tab
++ Added "Dragons Return Food" creative tab
++ Added "Dragons Return Misc" creative tab
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+Alpha 1.0.0[WIP]
+
+>>Items:
++ Added Copper Ingot [not yet craftable]
++ Added Bronze Ingot [not yet craftable]
++ Added Giron Ingot [not yet craftable]
++ Added Outcast Iron Ingot [not yet craftable]
++ Added Tin Ingot [not yet craftable]
+
+>>Blocks:
++ Added Block of Giron [not yet craftable]
++ Added Large Acacia Planks [not yet craftable]
++ Added Large Big Oak Planks [not yet craftable]
++ Added Large Birch Planks [not yet craftable]
++ Added Large Jungle Planks [not yet craftable]
++ Added Large Oak Planks [not yet craftable]
++ Added Large Spruce Planks [not yet craftable]
++ Added Tiles [not yet craftable]
+
+>>GUI
++ Added "Dragons Return Blocks" creative tab
++ Added "Dragons Return Items" creative tab
++ Added custom skin to "Dragons Return" creative tabs [placeholder]

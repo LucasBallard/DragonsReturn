@@ -1,0 +1,51 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BPB",
+        "PBP",
+        "BPB"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "drm:ingot_bronze"
+        },
+        
+        "P": [
+      {
+        "item": "minecraft:planks",
+        "data": 0
+      },
+      {
+        "item": "minecraft:planks",
+        "data": 1
+      },
+      {
+        "item": "minecraft:planks",
+        "data": 2
+      },
+      {
+        "item": "minecraft:planks",
+        "data": 3
+      },
+      {
+        "item": "minecraft:planks",
+        "data": 4
+      },
+      {
+        "item": "minecraft:planks",
+        "data": 5
+      }
+    ]
+    },
+   
+    "result":
+    {
+        "item": "drm:shield_bronze",
+        "count": 1
+    }
+}

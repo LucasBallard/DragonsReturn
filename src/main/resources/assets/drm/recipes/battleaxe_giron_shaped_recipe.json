@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "GSG",
+        "GSG",
+        " S "
+    ],
+   
+    "key":
+    {
+        "G":
+        {
+            "item": "drm:ingot_giron"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:battleaxe_giron",
+        "count": 1
+    }
+}

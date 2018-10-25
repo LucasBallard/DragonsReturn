@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "drm:ingot_bronze"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:pickaxe_bronze",
+        "count": 1
+    }
+}

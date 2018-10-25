@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+   
+    "key":
+    {
+        "P":
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:block_planks_large_oak",
+        "count": 1
+    }
+}

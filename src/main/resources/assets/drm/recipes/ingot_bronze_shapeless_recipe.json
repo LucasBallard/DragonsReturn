@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "drm:ingot_tin"
+    },
+ 
+    {
+      "item": "drm:ingot_copper"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "drm:ingot_bronze",
+        "count": 2
+    }
+}

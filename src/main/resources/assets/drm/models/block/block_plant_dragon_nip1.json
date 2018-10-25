@@ -1,0 +1,6 @@
+{
+   "parent": "block/crop",
+   "textures": {
+       "crop": "drm:blocks/block_plant_dragon_nip1"
+   }
+}

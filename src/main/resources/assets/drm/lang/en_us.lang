@@ -1,0 +1,86 @@
+//INGOTS
+item.ingot_bronze.name=Bronze Ingot
+item.ingot_copper.name=Copper Ingot
+item.ingot_giron.name=Giron Ingot
+item.ingot_outcast_iron.name=Outcast Iron Ingot
+item.ingot_tin.name=Tin Ingot
+
+//TOOLS BRONZE
+item.axe_bronze.name=Bronze Axe
+item.hoe_bronze.name=Bronze Hoe
+item.shovel_bronze.name=Bronze Shovel
+item.pickaxe_bronze.name=Bronze Pickaxe
+
+//TOOLS GIRON
+item.axe_giron.name=Giron Axe
+item.hoe_giron.name=Giron Hoe
+item.shovel_giron.name=Giron Shovel
+item.pickaxe_giron.name=Giron Pickaxe
+
+//ARMOR
+item.boots_bronze.name=Bronze Boots
+item.chestplate_bronze.name=Bronze Chestplate
+item.helmet_bronze.name=Bronze Helmet
+item.leggings_bronze.name=Bronze Leggings
+
+//WEAPONS BRONZE
+item.sword_bronze.name=Bronze Sword
+item.battleaxe_bronze.name=Bronze Battleaxe
+item.dagger_bronze.name=Bronze Dagger
+item.mace_bronze.name=Bronze Mace
+item.spear_bronze.name=Bronze Spear
+item.warhammer_bronze.name=Bronze WarHammer
+item.shield_bronze.name=Bronze Shield
+
+//WEAPONS GIRON
+item.sword_giron.name=Giron Sword
+item.battleaxe_giron.name=Giron Battleaxe
+item.dagger_giron.name=Giron Dagger
+item.mace_giron.name=Giron Mace
+item.spear_giron.name=Giron Spear
+item.warhammer_giron.name=Giron WarHammer
+
+//WEAPONS DRAGONS
+item.dagger_nadder.name=Nadder Dagger
+item.spear_nadder.name=Nadder Spear
+
+//BLOCKS
+tile.block_giron.name=Block of Giron
+tile.block_planks_large_acacia.name=Large Acacia Planks
+tile.block_planks_large_big_oak.name=Large Big Oak Planks
+tile.block_planks_large_birch.name=Large Birch Planks
+tile.block_planks_large_jungle.name=Large Jungle Planks
+tile.block_planks_large_oak.name=Large Oak Planks
+tile.block_planks_large_spruce.name=Large Spruce Planks
+tile.block_tiles.name=Tiles
+tile.block_log_loki.name=Loki Log
+tile.block_plant_dragon_nip.name=Dragon Nip Plant
+
+//ORES
+tile.block_ore_copper.name=Copper Ore
+tile.block_ore_tin.name=Tin Ore
+
+
+//FOOD
+item.drumstick.name=Drumstick
+item.seeds_dragon_nip.name=Dragon Nip Seeds
+item.dragon_nip.name=Dragon Nip
+item.cooked_mutton.name=Cooked Mutton
+item.raw_mutton.name=Raw Mutton
+
+
+//MISC
+item.egg_terrible_terror.name=Terrible Terror Egg
+item.egg_zippleback.name=Zippleback
+item.fur.name=Fur
+item.nadder_spines.name=Nadder Spines
+item.stick_loki.name=Loki Stick
+
+//GUI
+itemGroup.tabblocksdragons=Dragons Return Blocks
+itemGroup.tabitemsdragons=Dragons Return Items
+itemGroup.tabcombatdragons=Dragons Return Combat
+itemGroup.tabtoolsdragons=Dragons Return Tools
+itemGroup.tabfooddragons=Dragons Return Food
+itemGroup.tabmiscdragons=Dragons Return Misc
+

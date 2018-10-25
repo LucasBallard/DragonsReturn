@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " B ",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "drm:ingot_bronze"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:shovel_bronze",
+        "count": 1
+    }
+}

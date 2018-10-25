@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  N",
+        " S "
+    ],
+   
+    "key":
+    {
+        "N":
+        {
+            "item": "drm:nadder_spine"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "drm:dagger_nadder",
+        "count": 1
+    }
+}
