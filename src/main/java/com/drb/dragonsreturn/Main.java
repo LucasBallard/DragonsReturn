@@ -41,7 +41,7 @@ public class Main {
 	@Mod.EventHandler
 	public static void PreInit(FMLPreInitializationEvent event) {
 		System.out.println(Reference.MODID + ":preInit");
-		
+		proxy.preInit(event);
 		GameRegistry.registerWorldGenerator(new ModWorldGen(), 3);
 	}
 	
